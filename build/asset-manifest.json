@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.062060c0.css",
+    "main.js": "/static/js/main.f160d34b.js",
+    "static/media/eventsMeetUpPromo.jpg": "/static/media/eventsMeetUpPromo.842a9861c82c1f310201.jpg",
+    "static/media/retailStoreManageMentSystemPromo.png": "/static/media/retailStoreManageMentSystemPromo.794e5aa69cc65ceb8a03.png",
+    "static/media/jp_logo.png": "/static/media/jp_logo.c0d462a7eaeb7997e6e6.png",
+    "static/media/foodieHeavenPromo.png": "/static/media/foodieHeavenPromo.71058deafac81e530e75.png",
+    "static/media/nodejs.png": "/static/media/nodejs.3602f1a9992b0191a717.png",
+    "static/media/FileManagerPromo.png": "/static/media/FileManagerPromo.9579571b84456ba33e90.png",
+    "static/media/powerpoint.png": "/static/media/powerpoint.b364a80b27ab35822ad9.png",
+    "static/media/soilMindsPromo.png": "/static/media/soilMindsPromo.cc99fb659c40ada737f8.png",
+    "static/media/flask.png": "/static/media/flask.a3319b33492c2abbf2ab.png",
+    "static/media/windows.png": "/static/media/windows.b01bb7f13c91f2ad25ac.png",
+    "static/media/canva.png": "/static/media/canva.f79d38509c96cca4937e.png",
+    "static/media/Java.png": "/static/media/Java.635c2d0c48475049bb14.png",
+    "static/media/resume.pdf": "/static/media/resume.bc338cf6fb900df77576.pdf",
+    "static/media/TypeScript.png": "/static/media/TypeScript.8e08c2165d60d7ca62a9.png",
+    "static/media/nextjs.png": "/static/media/nextjs.1b844490fe0cc2fa6b8c.png",
+    "static/media/mit.png": "/static/media/mit.8371746a82c5635efd2e.png",
+    "static/media/aws.png": "/static/media/aws.a681dc68f97dd15d9d2b.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.1af469480aa5eba3d8e1.jpg",
+    "static/media/angular.png": "/static/media/angular.eb61c8fa009d1215b265.png",
+    "static/media/excel.png": "/static/media/excel.ede60a655cd6b2858d6d.png",
+    "index.html": "/index.html",
+    "main.062060c0.css.map": "/static/css/main.062060c0.css.map",
+    "main.f160d34b.js.map": "/static/js/main.f160d34b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.062060c0.css",
+    "static/js/main.f160d34b.js"
+  ]
+}
